@@ -8,6 +8,6 @@ class Sorting{
         System.out.println("arrays is sorted using the bubble sort ");
         System.out.println("developed by backend geetha developer ");
 
-        System.out.println("sorting  an array  frontend");
+        System.out.println("sorting an array... done by backedn dev ");
     }
 }
